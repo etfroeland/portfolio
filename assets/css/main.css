@@ -72,6 +72,14 @@ input, select, textarea {
 	appearance: none;
 }
 
+.cvBox * {
+	margin-bottom: 0%;
+}
+
+.cvBox {
+	margin: 1.5em;
+}
+
 /* Basic */
 
 	@-ms-viewport {
